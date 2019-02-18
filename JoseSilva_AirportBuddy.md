@@ -16,9 +16,9 @@
     https://github.com/mmdahir/Airport-Buddy
     
 ## Required Resources
-  -Java
-  -Android Studios knowledge
-  -Database knowledge
-  -Android API(s)
-  -mySQL
-  -PHP (Database) 
+  - Java
+  - Android Studios knowledge
+  - Database knowledge
+  - Android API(s)
+  - mySQL
+  - PHP (Database) 
