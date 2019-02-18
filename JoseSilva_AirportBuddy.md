@@ -5,12 +5,10 @@
   until flight begins boarding. 
 
 ## Educational Goals
-  Many educational goals can be met through this project. Test driven development is met through this project, having to make sure that
-only faces that are stored in the data base pass the test. Database programming will also be met in this project ideally we want to be able
-to access a database of faces. Making sure to be able to successfully access and traverse the database. 
+  Many educational goals can be met through this project. 
   
 ## Proposed Contribution
-  I propose to use the facial recognition module 
+  I propose to add a feature that presents the user with local AirBnBs in the area of travel. 
   
 ## URL refernce:
     https://github.com/mmdahir/Airport-Buddy
@@ -20,4 +18,5 @@ to access a database of faces. Making sure to be able to successfully access and
   Android Studios knowledge
   Database knowledge
   Android API(s)
-  Group Members 
+  mySQL
+  PHP (Database) 
