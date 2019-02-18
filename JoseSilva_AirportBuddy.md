@@ -3,6 +3,8 @@
   some of the struggles when going to the airport. This app allows the user to check out their route to the airport and report back
   the estimated arrival time. Reports the time it will take to get through TSA checkpoint and flight information, such as time remaining
   until flight begins boarding. 
+  
+  ![Use Vase Image](JoseSilva_AirportBuddy.png)
 
 ## Educational Goals
   Many educational goals can be met through this project. 
