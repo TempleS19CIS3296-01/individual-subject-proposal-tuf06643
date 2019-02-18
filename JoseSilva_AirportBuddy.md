@@ -7,7 +7,10 @@
   ![Use Vase Image](JoseSilva_AirportBuddy.png)
 
 ## Educational Goals
-  Many educational goals can be met through this project. 
+  Many educational goals can be met through this project. Test driven development can be met through this project which is 
+  important when developing to make sure that features are working like they are suppose too. Object oriented design will be met
+  through this project since we are going to have multiple classes such as adapters working together. Since this is an android
+  app XML (extensible markup language) will be used. Working with databases will have to be done in this project. 
   
 ## Proposed Contribution
   I propose to add a feature that presents the user with local AirBnBs in the area of travel. 
