@@ -4,7 +4,7 @@
   the estimated arrival time. Reports the time it will take to get through TSA checkpoint and flight information, such as time remaining
   until flight begins boarding. This project was created using Java and XML in Android Studio by a team of 4. 
   
-  ![Use Vase Image](JoseSilva_AirportBuddy.png)
+  ![Use Vase Image](JoseSilva_AirportBuddy(1).png)
 
 ## Educational Goals
   Many educational goals can be met through this project. Test driven development can be met through this project which is 
